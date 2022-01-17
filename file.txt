@@ -1,0 +1,18 @@
+program x (x,y,z);
+
+var
+  no: integer;
+
+begin
+  readln(no);
+  writeln('Hi');
+
+  if (no > 0) then
+    writeln('Positive');
+
+   for a := 10  to 20 do
+
+      begin
+         writeln('value of a: ', a);
+      end;
+end.

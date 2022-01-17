@@ -37,6 +37,7 @@ type
 
 begin
   writeln('Hi');
+  readln(no);
 end.
 */
 
